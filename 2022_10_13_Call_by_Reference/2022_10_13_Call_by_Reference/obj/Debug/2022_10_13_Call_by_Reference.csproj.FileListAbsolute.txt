@@ -1,0 +1,8 @@
+C:\Users\micha\source\repos\2022_10_13_Call_by_Reference\2022_10_13_Call_by_Reference\bin\Debug\2022_10_13_Call_by_Reference.exe.config
+C:\Users\micha\source\repos\2022_10_13_Call_by_Reference\2022_10_13_Call_by_Reference\bin\Debug\2022_10_13_Call_by_Reference.exe
+C:\Users\micha\source\repos\2022_10_13_Call_by_Reference\2022_10_13_Call_by_Reference\bin\Debug\2022_10_13_Call_by_Reference.pdb
+C:\Users\micha\source\repos\2022_10_13_Call_by_Reference\2022_10_13_Call_by_Reference\obj\Debug\2022_10_13_Call_by_Reference.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\2022_10_13_Call_by_Reference\2022_10_13_Call_by_Reference\obj\Debug\2022_10_13_Call_by_Reference.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\source\repos\2022_10_13_Call_by_Reference\2022_10_13_Call_by_Reference\obj\Debug\2022_10_13_Call_by_Reference.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\2022_10_13_Call_by_Reference\2022_10_13_Call_by_Reference\obj\Debug\2022_10_13_Call_by_Reference.exe
+C:\Users\micha\source\repos\2022_10_13_Call_by_Reference\2022_10_13_Call_by_Reference\obj\Debug\2022_10_13_Call_by_Reference.pdb
